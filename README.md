@@ -8,3 +8,4 @@ validation data. The two hidden layers have a dimension of 500 each.
 - l2 regularization
 - Dropout
 - Early stopping
+### [Code](https://github.com/SarathMohanIITD/MNIST-digit-classification/blob/main/MNIST.ipynb)
